@@ -1,0 +1,5 @@
+[run]
+include = drf_src/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
