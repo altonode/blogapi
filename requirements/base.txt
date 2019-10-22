@@ -13,7 +13,7 @@ django-environ==0.4.4
 whitenoise==3.3.1
 
 # Images
-Pillow==5.0.0
+Pillow==6.2.0
 
 # Forms
 django-crispy-forms==1.7.0
