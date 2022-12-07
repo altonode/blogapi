@@ -53,7 +53,7 @@ django-compressor==2.2
 
 
 # Custom requirements 
-certifi==2017.11.5
+certifi==2022.12.7
 chardet==3.0.4
 django-filter==1.1.0
 djangorestframework==3.7.3
